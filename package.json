@@ -40,3 +40,6 @@
     "typescript": "^5.9.3"
   }
 }
+"overrides": {
+  "node-domexception": "@nolyfill/domexception@^1.0.28"
+}
